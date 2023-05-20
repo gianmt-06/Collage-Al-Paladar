@@ -5,7 +5,7 @@ This is a university project developed as a team with my partner, [@Alejo-Rodri]
 This project consists of 4 modules:
 
 - Administrator: responsible for registering users and dishes.
-- Operator: responsible for registering and validating users, taking orders, and being able to modify or cancel them.
+- Operator: responsible for registering and validating clients, taking orders, and being able to modify or cancel them.
 - Kitchen: implements a priority queue to organize orders and a system that manages the availability of stoves in the kitchen.
 - Delivery: implements an algorithm to calculate the closest route the delivery person should take to reach their destination and deliver all the orders.
 
