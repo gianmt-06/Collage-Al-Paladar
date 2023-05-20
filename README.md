@@ -9,6 +9,18 @@ This project consists of 4 modules:
 - Kitchen: implements a priority queue to organize orders and a system that manages the availability of stoves in the kitchen.
 - Delivery: implements an algorithm to calculate the closest route the delivery person should take to reach their destination and deliver all the orders.
 
+For more details about the project, such as the data structures used, implemented algorithms, or technologies utilized, feel free to contact any one of us.
+
+
+Technologies used in the project include:
+
+- Java: The programming language used for the project's implementation.
+- RMI (Remote Method Invocation): A Java API that enables communication between distributed systems.
+- JavaFX: A Java library used for building graphical user interfaces (GUIs) for desktop applications.
+- CSS: Cascading Style Sheets, a language used for styling the visual elements of the application.
+- Figma: A web-based design and prototyping tool used for creating user interface designs and collaborative design work.
+- FXML: A markup language used in JavaFX for defining the structure and layout of user interfaces.
+
 ## Admin Module
 <p>
   In this module, we can observe the way users are added, their information is displayed, and the implemented search algorithm             (Levenshtein distance). RMI Server
@@ -26,6 +38,9 @@ This project consists of 4 modules:
 </div>
 
 ## Kitchen Module
+<p>
+  In this module, an algorithm was implemented to assign delivery priorities and subsequently organize them in a priority queue. These priorities depend on the user's rank and the delivery distance of the order from the restaurant. Additionally, an algorithm was implemented in this module to assign a stove to each dish entering the kitchen based on availability. The stoves were divided as follows: four stoves for dishes with a cooking time of 10 minutes and twelve stoves for dishes with a cooking time less than 10 minutes.
+</p>
 <div align="center">
   <img align="center" alt="kitchenModule" src="kitchenInterface.gif">
 </div>
