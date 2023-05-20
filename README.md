@@ -27,6 +27,8 @@ Technologies used in the project include:
 </p>
 <div align="center">
   <img align="center" alt="adminModule" src="admInterface.gif">
+  <br>
+  <br>
 </div>
 
 ## Operator Module
@@ -35,6 +37,8 @@ Technologies used in the project include:
 </p>
 <div align="center">
   <img align="center" alt="kitchenModule" src="operatorInterface.gif">
+  <br>
+  <br>
 </div>
 
 ## Kitchen Module
@@ -43,4 +47,6 @@ Technologies used in the project include:
 </p>
 <div align="center">
   <img align="center" alt="kitchenModule" src="kitchenInterface.gif">
+  <br>
+  <br>
 </div>
