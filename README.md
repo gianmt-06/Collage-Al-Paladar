@@ -7,3 +7,7 @@
 <div align="center">
   <img align="center" alt="adminModule" src="operatorInterface.gif">
 </div>
+
+<div align="center">
+  <img align="center" alt="adminModule" src="kitchenInterface.gif">
+</div>
